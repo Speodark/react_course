@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Calvin West",
+      "id": 3
+    },
+    {
+      "name": "Eunice Waelchi",
+      "id": 4
+    },
+    {
+      "name": "Emily Koelpin",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Recycled Plastic Salad",
+      "id": 15
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Rubber Towels",
+      "id": 19
+    },
+    {
+      "userId": 5,
+      "title": "Generic Plastic Chips",
+      "id": 20
+    },
+    {
+      "userId": 5,
+      "title": "Gorgeous Cotton Hat",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Refined Frozen Chicken",
+      "id": 22
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23240",
+      "id": 1
+    }
+  ]
+}
